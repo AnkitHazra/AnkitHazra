@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **hazraankit668@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1neSUL9GsrYeNmDLDif3SC1qaEESZBCYC](https://drive.google.com/drive/folders/1neSUL9GsrYeNmDLDif3SC1qaEESZBCYC)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1nsVbVZP1I4WbOamY3hUeEQybDpkRRMDv/view?usp=drivesdk](https://drive.google.com/file/d/1nsVbVZP1I4WbOamY3hUeEQybDpkRRMDv/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
