@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Data Structures and Algoritm and Web Development**
 
-- 👨‍💻 All of my projects are available at [https://ankitportfolio20.netlify.app/](https://ankitportfolio20.netlify.app/)
-
 - 📫 How to reach me **hazraankit668@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1nsVbVZP1I4WbOamY3hUeEQybDpkRRMDv/view?usp=drivesdk](https://drive.google.com/file/d/1nsVbVZP1I4WbOamY3hUeEQybDpkRRMDv/view?usp=drivesdk)
