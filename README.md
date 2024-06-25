@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **hazraankit668@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1nsVbVZP1I4WbOamY3hUeEQybDpkRRMDv/view?usp=drivesdk](https://drive.google.com/file/d/1nsVbVZP1I4WbOamY3hUeEQybDpkRRMDv/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Uew6VW9st4tKrhKBlqz84i5ViYS5FEfq/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
