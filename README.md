@@ -19,7 +19,7 @@
 <a href="https://twitter.com/hazraankit790" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hazraankit790" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hazraankit2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hazraankit2005" height="30" width="40" /></a>
 <a href="https://instagram.com/hazra_ankit1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hazra_ankit1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ankit_hazra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ankit_hazra" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ankit_haza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ankit_hazra" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
